@@ -1,10 +1,12 @@
 ### 华为2018网络大赛复赛B卷（西北赛区）
 
+结合2016网络大赛模拟题共同食用
+
 比赛官网见[华为2018网络大赛](http://ntec.huaweils.com/)
 
 ### 复赛推荐资料
 
-- [folk来的视频整理]()https://github.com/cloisonne/Huawei-2018-network
+- [folk来的视频整理](https://github.com/cloisonne/Huawei-2018-network)
 - HCNA网络技术实验指南  1-422页
 - HCNA-HNTD入门实验指导书V2.1
 - HCNA-HNTD进阶实验指导书V2.1
